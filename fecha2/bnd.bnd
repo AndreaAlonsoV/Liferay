@@ -1,0 +1,4 @@
+Bundle-Name: fecha2
+Bundle-SymbolicName: fecha2
+Bundle-Version: 1.0.0
+Export-Package: fecha2.constants
