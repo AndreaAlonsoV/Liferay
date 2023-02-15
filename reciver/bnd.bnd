@@ -1,0 +1,4 @@
+Bundle-Name: reciver
+Bundle-SymbolicName: reciver
+Bundle-Version: 1.0.0
+Export-Package: reciver.constants
