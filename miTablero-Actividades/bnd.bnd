@@ -1,0 +1,4 @@
+Bundle-Name: miTablero-Actividades
+Bundle-SymbolicName: com.iconsulto.miTablero.actividades
+Bundle-Version: 1.0.0
+Export-Package: com.iconsulto.miTablero.actividades.constants

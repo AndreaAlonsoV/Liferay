@@ -5,6 +5,7 @@
 <%@ taglib uri="http://liferay.com/tld/theme" prefix="theme" %>
 <%@ taglib prefix="clay" uri="http://liferay.com/tld/clay" %>
 <%@ taglib uri="http://liferay.com/tld/portlet" prefix="liferay-portlet" %>
+<%@ taglib uri="http://liferay.com/tld/portlet" prefix="liferay-portlet" %>
 
 <theme:defineObjects/>
 
@@ -21,6 +22,8 @@
 </p>
 
 <%= now %>
+
+<p><%=portletDisplay.getNamespace()%>
 
 <p>
 

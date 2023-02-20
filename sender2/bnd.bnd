@@ -1,0 +1,4 @@
+Bundle-Name: sender2
+Bundle-SymbolicName: sender2
+Bundle-Version: 1.0.0
+Export-Package: sender2.constants

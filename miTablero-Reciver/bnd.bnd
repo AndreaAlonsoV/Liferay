@@ -1,0 +1,4 @@
+Bundle-Name: miTablero-Reciver
+Bundle-SymbolicName: com.iConsulto.miTablero.Reciver
+Bundle-Version: 1.0.0
+Export-Package: com.iConsulto.miTablero.Reciver.constants
